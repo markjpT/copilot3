@@ -28,7 +28,7 @@
     "@typescript-eslint/parser": "^5.62.0",
     "@vitejs/plugin-react": "^4.2.1",
     "autoprefixer": "^10.4.17",
-    "axios": "^1.6.7",
+    "axios": "^1.7.4",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
     "eslint": "^8.56.0",
@@ -51,7 +51,7 @@
     "tailwindcss-animate": "^1.0.7",
     "timeago.js": "^4.0.2",
     "typescript": "^5.3.3",
-    "vite": "^4.5.2",
+    "vite": "^4.5.5",
     "vite-plugin-dts": "^3.7.2",
     "vite-tsconfig-paths": "^4.3.1"
   },
